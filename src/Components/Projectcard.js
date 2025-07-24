@@ -4,10 +4,10 @@ import './../styles/ProjectCard.css';
 function ProjectCard({ project }) {
   return (
     <div className="project-card">
-      <img src={project.image} alt={project.title} className="project-image" />
+      <img src={project.image} alt={Tic Toe Game} className="project-image" />
       <div className="project-info">
         <h3>{project.title}</h3>
-        <p className="project-description">{project.description}</p>
+        <p className="Built an AI-powered study assistant that generates notes, quizzes, and flashcards from user-uploaded materials to help students learn smarter and faster. Integrated modern UI with React and Tailwind CSS and used Python for backend logic and data handling. I also used a Groq API for the AI.">{project.description}</p>
         <div className="project-tech">
           {project.technologies.map((tech, index) => (
             <span key={index} className="tech-tag">{tech}</span>
