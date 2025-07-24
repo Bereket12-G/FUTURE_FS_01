@@ -14,14 +14,10 @@ function About() {
     <section id="about" className="about-section">
       <h2>About Me</h2>
       <p className="bio-text">
-        [Write a concise and compelling summary about yourself, your passion, and your professional goals. 
-        Highlight what makes you unique and what kind of problems you enjoy solving.]
-        <br/><br/>
-        For example: "I am a passionate software engineer with 5+ years of experience in building scalable and performant web applications. 
-        My expertise lies in crafting intuitive user interfaces and robust backend systems. I thrive in collaborative environments and am always eager to learn new technologies."
+        [Hello there! I'm Bereket, a Strongly Passionate AI and Full-Stack Developer with skills in Python for back-end development and React with Tailwind CSS for front-end. Built real-world web and AI projects and hold a basic foundation in machine learning. Driven to deliver user-friendly, AI- powered solutions and real-world projects that solve real problems. And I'm always thankful for my God and Fans."
       </p>
 
-      <a href="/assets/documents/your-resume.pdf" download="YourName_Resume.pdf" className="btn secondary-btn">
+      <a href="/assets/documents/your-resume.pdf" download="Bereket Gezhagne.pdf" className="btn secondary-btn">
         Download Resume
       </a>
 
