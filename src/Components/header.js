@@ -6,7 +6,7 @@ function Header() {
   return (
     <header className="header">
       <nav className="navbar">
-        <a href="/" className="logo">Your Name</a>
+        <a href="/" className="logo"> BG </a>
         <ul className="nav-links">
           <li><a href="#about">About</a></li>
           <li><a href="#projects">Projects</a></li>
