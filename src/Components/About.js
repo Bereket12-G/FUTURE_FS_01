@@ -17,7 +17,7 @@ function About() {
         [Hello there! I'm Bereket, a Strongly Passionate AI and Full-Stack Developer with skills in Python for back-end development and React with Tailwind CSS for front-end. Built real-world web and AI projects and hold a basic foundation in machine learning. Driven to deliver user-friendly, AI- powered solutions and real-world projects that solve real problems. And I'm always thankful for my God and Fans."
       </p>
 
-      <a href="/assets/documents/your-resume.pdf" download="Bereket Gezhagne.pdf" className="btn secondary-btn">
+      <a href="/assets/documents/your-resume.pdf" download="Bereket Gezhagne .pdf" className="btn secondary-btn">
         Download Resume
       </a>
 
